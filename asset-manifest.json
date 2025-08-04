@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RF-Brand-intelligence-report/static/css/main.511b042a.css",
-    "main.js": "/RF-Brand-intelligence-report/static/js/main.260069a9.js",
+    "main.js": "/RF-Brand-intelligence-report/static/js/main.f3c44779.js",
     "static/js/453.08c2c467.chunk.js": "/RF-Brand-intelligence-report/static/js/453.08c2c467.chunk.js",
     "index.html": "/RF-Brand-intelligence-report/index.html",
     "main.511b042a.css.map": "/RF-Brand-intelligence-report/static/css/main.511b042a.css.map",
-    "main.260069a9.js.map": "/RF-Brand-intelligence-report/static/js/main.260069a9.js.map",
+    "main.f3c44779.js.map": "/RF-Brand-intelligence-report/static/js/main.f3c44779.js.map",
     "453.08c2c467.chunk.js.map": "/RF-Brand-intelligence-report/static/js/453.08c2c467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.511b042a.css",
-    "static/js/main.260069a9.js"
+    "static/js/main.f3c44779.js"
   ]
 }
